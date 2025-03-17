@@ -1,0 +1,51 @@
+Product ID,Product Category,SKU,Product Price ($)
+1,Cleansers,Gel Cleansers,20
+2,Cleansers,Foam Cleanser,15
+3,Cleansers,Oil Cleanser,20
+4,Cleansers,Micellar Water,20
+5,Cleansers,Cleansing Balm,25
+6,Exfoliators,Physical Scrub,20
+7,Exfoliators,"Chemical Exfoliant (AHA, BHA)",30
+8,Exfoliators,Enzyme Exfoliant,35
+9,Toners,Hydrating Toner,20
+10,Toners,Exfoliating Toner,25
+11,Toners,Brightening Toner,35
+12,Toners,pH-Balancing Toner,20
+13,Serums,Hyaluronic Acid,25
+14,Serums,Vitamin C,35
+15,Serums,Retinol,60
+16,Serums,Dark Spot Corrector,45
+17,Serums,Pore-Minimizing Serum,40
+18,Moisturizers,Gel Moisturizer,30
+19,Moisturizers,Cream Moisturizer,25
+20,Moisturizers,Oil-Based Moisturizer,30
+21,Moisturizers,Water-Based Moisturizer,35
+22,Moisturizers,Night Cream,40
+23,Sunscreens (SPF),Chemical Sunscreen,45
+24,Sunscreens (SPF),Mineral Sunscreen,40
+25,Sunscreens (SPF),Tinted Sunscreen,55
+26,Face Masks,Sheet Mask,10
+27,Face Masks,Clay Mask,25
+28,Face Masks,Gel Mask,20
+29,Face Masks,Peel-Off Mask,20
+30,Face Masks,Sleeping Mask,55
+31,Eye Care,Eye Cream,55
+32,Eye Care,Eye Gel,40
+33,Eye Care,Under-Eye Patches,25
+34,Lip Care,Lip Balm,5
+35,Lip Care,Lip Scrub,15
+36,Lip Care,Lip Mask,20
+37,Face Oils,Argan Oil,15
+38,Face Oils,Rosehip Oil,20
+39,Acne Treatment,Pimple Patches,35
+40,Acne Treatment,Acne Spot Treatment,35
+41,Anti-Aging Treatment,Wrinkle Creams,40
+42,Anti-Aging Treatment,Firming Serums,45
+43,Anti-Aging Treatment,Collagen Boosters,60
+44,Sensitive Skin Treatment,Soothing Creams,25
+45,Sensitive Skin Treatment,Calming Serums,25
+46,Skin Repair & Healing,Healing Ointments,20
+47,Skin Repair & Healing,Scar Treatment Cream,25
+48,Skin Repair & Healing,Post-Sun Care,20
+49,Pore Care,Pore Minimizing Serum,35
+50,Pore Care,Pore Strips,20

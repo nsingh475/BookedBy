@@ -1,0 +1,501 @@
+Customer ID,Purchase Count,Purchase Pattern,Seasonality Category
+1,12,Loyal Customer,Regular Season Buyer
+2,14,Loyal Customer,Regular Season Buyer
+3,10,Loyal Customer,Off-season Shopper
+4,6,Loyal Customer,Regular Season Buyer
+5,9,Loyal Customer,Regular Season Buyer
+6,11,Loyal Customer,Regular Season Buyer
+7,9,Loyal Customer,Regular Season Buyer
+8,9,Loyal Customer,Regular Season Buyer
+9,8,Loyal Customer,Regular Season Buyer
+10,14,Loyal Customer,Regular Season Buyer
+11,12,Loyal Customer,Regular Season Buyer
+12,8,Loyal Customer,Off-season Shopper
+13,9,Loyal Customer,Off-season Shopper
+14,11,Loyal Customer,Regular Season Buyer
+15,9,Loyal Customer,Regular Season Buyer
+16,15,Loyal Customer,Regular Season Buyer
+17,12,Loyal Customer,Regular Season Buyer
+18,10,Loyal Customer,Regular Season Buyer
+19,9,Loyal Customer,Regular Season Buyer
+20,12,Loyal Customer,Regular Season Buyer
+21,9,Loyal Customer,Regular Season Buyer
+22,13,Loyal Customer,Regular Season Buyer
+23,7,Loyal Customer,Off-season Shopper
+24,13,Loyal Customer,Regular Season Buyer
+25,9,Loyal Customer,Regular Season Buyer
+26,7,Loyal Customer,Off-season Shopper
+27,8,Loyal Customer,Regular Season Buyer
+28,8,Loyal Customer,Off-season Shopper
+29,12,Loyal Customer,Regular Season Buyer
+30,9,Loyal Customer,Regular Season Buyer
+31,5,Loyal Customer,Off-season Shopper
+32,10,Loyal Customer,Regular Season Buyer
+33,10,Loyal Customer,Regular Season Buyer
+34,12,Loyal Customer,Regular Season Buyer
+35,10,Loyal Customer,Off-season Shopper
+36,15,Loyal Customer,Regular Season Buyer
+37,9,Loyal Customer,Regular Season Buyer
+38,13,Loyal Customer,Regular Season Buyer
+39,8,Loyal Customer,Regular Season Buyer
+40,6,Loyal Customer,Off-season Shopper
+41,6,Loyal Customer,Off-season Shopper
+42,15,Loyal Customer,Regular Season Buyer
+43,9,Loyal Customer,Regular Season Buyer
+44,11,Loyal Customer,Regular Season Buyer
+45,6,Loyal Customer,Off-season Shopper
+46,10,Loyal Customer,Regular Season Buyer
+47,12,Loyal Customer,Regular Season Buyer
+48,13,Loyal Customer,Regular Season Buyer
+49,11,Loyal Customer,Off-season Shopper
+50,10,Loyal Customer,Regular Season Buyer
+51,6,Loyal Customer,Off-season Shopper
+52,10,Loyal Customer,Regular Season Buyer
+53,9,Loyal Customer,Regular Season Buyer
+54,13,Loyal Customer,Regular Season Buyer
+55,9,Loyal Customer,Off-season Shopper
+56,16,Loyal Customer,Regular Season Buyer
+57,14,Loyal Customer,Regular Season Buyer
+58,9,Loyal Customer,Regular Season Buyer
+59,12,Loyal Customer,Regular Season Buyer
+60,8,Loyal Customer,Regular Season Buyer
+61,11,Loyal Customer,Regular Season Buyer
+62,9,Loyal Customer,Off-season Shopper
+63,11,Loyal Customer,Regular Season Buyer
+64,11,Loyal Customer,Regular Season Buyer
+65,12,Loyal Customer,Regular Season Buyer
+66,11,Loyal Customer,Regular Season Buyer
+67,13,Loyal Customer,Regular Season Buyer
+68,7,Loyal Customer,Regular Season Buyer
+69,8,Loyal Customer,Regular Season Buyer
+70,6,Loyal Customer,Off-season Shopper
+71,14,Loyal Customer,Regular Season Buyer
+72,7,Loyal Customer,Regular Season Buyer
+73,18,Loyal Customer,Regular Season Buyer
+74,13,Loyal Customer,Regular Season Buyer
+75,16,Loyal Customer,Regular Season Buyer
+76,8,Loyal Customer,Regular Season Buyer
+77,8,Loyal Customer,Off-season Shopper
+78,6,Loyal Customer,Regular Season Buyer
+79,14,Loyal Customer,Regular Season Buyer
+80,9,Loyal Customer,Off-season Shopper
+81,10,Loyal Customer,Regular Season Buyer
+82,11,Loyal Customer,Regular Season Buyer
+83,8,Loyal Customer,Regular Season Buyer
+84,7,Loyal Customer,Regular Season Buyer
+85,9,Loyal Customer,Regular Season Buyer
+86,6,Loyal Customer,Off-season Shopper
+87,9,Loyal Customer,Regular Season Buyer
+88,5,Loyal Customer,Off-season Shopper
+89,7,Loyal Customer,Off-season Shopper
+90,16,Loyal Customer,Regular Season Buyer
+91,6,Loyal Customer,Off-season Shopper
+92,8,Loyal Customer,Off-season Shopper
+93,9,Loyal Customer,Regular Season Buyer
+94,9,Loyal Customer,Regular Season Buyer
+95,11,Loyal Customer,Regular Season Buyer
+96,14,Loyal Customer,Regular Season Buyer
+97,9,Loyal Customer,Regular Season Buyer
+98,9,Loyal Customer,Off-season Shopper
+99,10,Loyal Customer,Off-season Shopper
+100,5,Loyal Customer,Off-season Shopper
+101,9,Loyal Customer,Regular Season Buyer
+102,8,Loyal Customer,Regular Season Buyer
+103,10,Loyal Customer,Regular Season Buyer
+104,11,Loyal Customer,Regular Season Buyer
+105,9,Loyal Customer,Regular Season Buyer
+106,12,Loyal Customer,Regular Season Buyer
+107,9,Loyal Customer,Regular Season Buyer
+108,11,Loyal Customer,Regular Season Buyer
+109,7,Loyal Customer,Off-season Shopper
+110,8,Loyal Customer,Regular Season Buyer
+111,9,Loyal Customer,Off-season Shopper
+112,8,Loyal Customer,Off-season Shopper
+113,15,Loyal Customer,Regular Season Buyer
+114,8,Loyal Customer,Off-season Shopper
+115,5,Loyal Customer,Off-season Shopper
+116,11,Loyal Customer,Regular Season Buyer
+117,9,Loyal Customer,Regular Season Buyer
+118,10,Loyal Customer,Regular Season Buyer
+119,11,Loyal Customer,Regular Season Buyer
+120,7,Loyal Customer,Regular Season Buyer
+121,12,Loyal Customer,Regular Season Buyer
+122,5,Loyal Customer,Off-season Shopper
+123,6,Loyal Customer,Off-season Shopper
+124,7,Loyal Customer,Regular Season Buyer
+125,7,Loyal Customer,Regular Season Buyer
+126,7,Loyal Customer,Regular Season Buyer
+127,5,Loyal Customer,Off-season Shopper
+128,9,Loyal Customer,Regular Season Buyer
+129,11,Loyal Customer,Off-season Shopper
+130,8,Loyal Customer,Regular Season Buyer
+131,9,Loyal Customer,Regular Season Buyer
+132,10,Loyal Customer,Off-season Shopper
+133,9,Loyal Customer,Regular Season Buyer
+134,16,Loyal Customer,Regular Season Buyer
+135,12,Loyal Customer,Regular Season Buyer
+136,4,Returning Customer,Off-season Shopper
+137,10,Loyal Customer,Regular Season Buyer
+138,9,Loyal Customer,Regular Season Buyer
+139,9,Loyal Customer,Regular Season Buyer
+140,12,Loyal Customer,Regular Season Buyer
+141,9,Loyal Customer,Regular Season Buyer
+142,8,Loyal Customer,Regular Season Buyer
+143,12,Loyal Customer,Regular Season Buyer
+144,5,Loyal Customer,Off-season Shopper
+145,15,Loyal Customer,Regular Season Buyer
+146,13,Loyal Customer,Regular Season Buyer
+147,12,Loyal Customer,Regular Season Buyer
+148,14,Loyal Customer,Regular Season Buyer
+149,9,Loyal Customer,Regular Season Buyer
+150,8,Loyal Customer,Regular Season Buyer
+151,15,Loyal Customer,Regular Season Buyer
+152,11,Loyal Customer,Regular Season Buyer
+153,10,Loyal Customer,Regular Season Buyer
+154,5,Loyal Customer,Off-season Shopper
+155,6,Loyal Customer,Off-season Shopper
+156,7,Loyal Customer,Off-season Shopper
+157,8,Loyal Customer,Off-season Shopper
+158,6,Loyal Customer,Off-season Shopper
+159,8,Loyal Customer,Regular Season Buyer
+160,8,Loyal Customer,Regular Season Buyer
+161,21,Loyal Customer,Regular Season Buyer
+162,7,Loyal Customer,Off-season Shopper
+163,9,Loyal Customer,Regular Season Buyer
+164,5,Loyal Customer,Off-season Shopper
+165,9,Loyal Customer,Regular Season Buyer
+166,7,Loyal Customer,Off-season Shopper
+167,10,Loyal Customer,Regular Season Buyer
+168,7,Loyal Customer,Off-season Shopper
+169,11,Loyal Customer,Regular Season Buyer
+170,14,Loyal Customer,Regular Season Buyer
+171,8,Loyal Customer,Off-season Shopper
+172,9,Loyal Customer,Regular Season Buyer
+173,9,Loyal Customer,Regular Season Buyer
+174,6,Loyal Customer,Regular Season Buyer
+175,7,Loyal Customer,Off-season Shopper
+176,6,Loyal Customer,Off-season Shopper
+177,8,Loyal Customer,Regular Season Buyer
+178,10,Loyal Customer,Regular Season Buyer
+179,8,Loyal Customer,Off-season Shopper
+180,10,Loyal Customer,Regular Season Buyer
+181,5,Loyal Customer,Off-season Shopper
+182,7,Loyal Customer,Regular Season Buyer
+183,10,Loyal Customer,Regular Season Buyer
+184,11,Loyal Customer,Regular Season Buyer
+185,14,Loyal Customer,Regular Season Buyer
+186,15,Loyal Customer,Regular Season Buyer
+187,8,Loyal Customer,Off-season Shopper
+188,9,Loyal Customer,Regular Season Buyer
+189,5,Loyal Customer,Off-season Shopper
+190,9,Loyal Customer,Regular Season Buyer
+191,8,Loyal Customer,Regular Season Buyer
+192,8,Loyal Customer,Regular Season Buyer
+193,18,Loyal Customer,Regular Season Buyer
+194,15,Loyal Customer,Regular Season Buyer
+195,10,Loyal Customer,Regular Season Buyer
+196,12,Loyal Customer,Regular Season Buyer
+197,5,Loyal Customer,Off-season Shopper
+198,8,Loyal Customer,Off-season Shopper
+199,5,Loyal Customer,Off-season Shopper
+200,8,Loyal Customer,Regular Season Buyer
+201,10,Loyal Customer,Regular Season Buyer
+202,14,Loyal Customer,Regular Season Buyer
+203,6,Loyal Customer,Off-season Shopper
+204,15,Loyal Customer,Regular Season Buyer
+205,7,Loyal Customer,Off-season Shopper
+206,13,Loyal Customer,Regular Season Buyer
+207,13,Loyal Customer,Regular Season Buyer
+208,3,Returning Customer,Off-season Shopper
+209,13,Loyal Customer,Regular Season Buyer
+210,12,Loyal Customer,Off-season Shopper
+211,9,Loyal Customer,Regular Season Buyer
+212,9,Loyal Customer,Regular Season Buyer
+213,11,Loyal Customer,Regular Season Buyer
+214,6,Loyal Customer,Off-season Shopper
+215,11,Loyal Customer,Regular Season Buyer
+216,8,Loyal Customer,Regular Season Buyer
+217,8,Loyal Customer,Regular Season Buyer
+218,9,Loyal Customer,Off-season Shopper
+219,13,Loyal Customer,Regular Season Buyer
+220,12,Loyal Customer,Regular Season Buyer
+221,7,Loyal Customer,Regular Season Buyer
+222,7,Loyal Customer,Off-season Shopper
+223,15,Loyal Customer,Regular Season Buyer
+224,9,Loyal Customer,Off-season Shopper
+225,9,Loyal Customer,Off-season Shopper
+226,14,Loyal Customer,Regular Season Buyer
+227,13,Loyal Customer,Regular Season Buyer
+228,10,Loyal Customer,Regular Season Buyer
+229,11,Loyal Customer,Regular Season Buyer
+230,10,Loyal Customer,Regular Season Buyer
+231,6,Loyal Customer,Regular Season Buyer
+232,11,Loyal Customer,Off-season Shopper
+233,6,Loyal Customer,Off-season Shopper
+234,10,Loyal Customer,Regular Season Buyer
+235,2,Returning Customer,Off-season Shopper
+236,14,Loyal Customer,Regular Season Buyer
+237,9,Loyal Customer,Regular Season Buyer
+238,11,Loyal Customer,Regular Season Buyer
+239,9,Loyal Customer,Regular Season Buyer
+240,14,Loyal Customer,Regular Season Buyer
+241,8,Loyal Customer,Regular Season Buyer
+242,7,Loyal Customer,Regular Season Buyer
+243,10,Loyal Customer,Regular Season Buyer
+244,17,Loyal Customer,Regular Season Buyer
+245,7,Loyal Customer,Off-season Shopper
+246,12,Loyal Customer,Regular Season Buyer
+247,10,Loyal Customer,Regular Season Buyer
+248,5,Loyal Customer,Off-season Shopper
+249,6,Loyal Customer,Off-season Shopper
+250,13,Loyal Customer,Regular Season Buyer
+251,16,Loyal Customer,Regular Season Buyer
+252,15,Loyal Customer,Regular Season Buyer
+253,8,Loyal Customer,Off-season Shopper
+254,15,Loyal Customer,Regular Season Buyer
+255,6,Loyal Customer,Off-season Shopper
+256,8,Loyal Customer,Regular Season Buyer
+257,10,Loyal Customer,Regular Season Buyer
+258,7,Loyal Customer,Off-season Shopper
+259,5,Loyal Customer,Off-season Shopper
+260,14,Loyal Customer,Regular Season Buyer
+261,10,Loyal Customer,Regular Season Buyer
+262,8,Loyal Customer,Regular Season Buyer
+263,9,Loyal Customer,Off-season Shopper
+264,10,Loyal Customer,Regular Season Buyer
+265,9,Loyal Customer,Regular Season Buyer
+266,10,Loyal Customer,Off-season Shopper
+267,7,Loyal Customer,Off-season Shopper
+268,11,Loyal Customer,Regular Season Buyer
+269,10,Loyal Customer,Regular Season Buyer
+270,9,Loyal Customer,Regular Season Buyer
+271,21,Loyal Customer,Regular Season Buyer
+272,11,Loyal Customer,Regular Season Buyer
+273,9,Loyal Customer,Regular Season Buyer
+274,7,Loyal Customer,Regular Season Buyer
+275,21,Loyal Customer,Regular Season Buyer
+276,7,Loyal Customer,Off-season Shopper
+277,8,Loyal Customer,Regular Season Buyer
+278,6,Loyal Customer,Regular Season Buyer
+279,15,Loyal Customer,Regular Season Buyer
+280,6,Loyal Customer,Off-season Shopper
+281,10,Loyal Customer,Regular Season Buyer
+282,5,Loyal Customer,Off-season Shopper
+283,11,Loyal Customer,Regular Season Buyer
+284,8,Loyal Customer,Regular Season Buyer
+285,16,Loyal Customer,Regular Season Buyer
+286,2,Returning Customer,Off-season Shopper
+287,9,Loyal Customer,Regular Season Buyer
+288,12,Loyal Customer,Regular Season Buyer
+289,12,Loyal Customer,Regular Season Buyer
+290,20,Loyal Customer,Regular Season Buyer
+291,11,Loyal Customer,Regular Season Buyer
+292,12,Loyal Customer,Regular Season Buyer
+293,11,Loyal Customer,Regular Season Buyer
+294,12,Loyal Customer,Regular Season Buyer
+295,6,Loyal Customer,Off-season Shopper
+296,10,Loyal Customer,Regular Season Buyer
+297,12,Loyal Customer,Regular Season Buyer
+298,7,Loyal Customer,Regular Season Buyer
+299,10,Loyal Customer,Regular Season Buyer
+300,11,Loyal Customer,Regular Season Buyer
+301,8,Loyal Customer,Off-season Shopper
+302,8,Loyal Customer,Off-season Shopper
+303,11,Loyal Customer,Regular Season Buyer
+304,13,Loyal Customer,Regular Season Buyer
+305,12,Loyal Customer,Regular Season Buyer
+306,6,Loyal Customer,Off-season Shopper
+307,8,Loyal Customer,Regular Season Buyer
+308,12,Loyal Customer,Regular Season Buyer
+309,15,Loyal Customer,Regular Season Buyer
+310,9,Loyal Customer,Regular Season Buyer
+311,11,Loyal Customer,Regular Season Buyer
+312,13,Loyal Customer,Regular Season Buyer
+313,4,Returning Customer,Off-season Shopper
+314,9,Loyal Customer,Regular Season Buyer
+315,6,Loyal Customer,Regular Season Buyer
+316,8,Loyal Customer,Regular Season Buyer
+317,14,Loyal Customer,Regular Season Buyer
+318,13,Loyal Customer,Regular Season Buyer
+319,9,Loyal Customer,Regular Season Buyer
+320,14,Loyal Customer,Regular Season Buyer
+321,10,Loyal Customer,Regular Season Buyer
+322,9,Loyal Customer,Regular Season Buyer
+323,13,Loyal Customer,Regular Season Buyer
+324,12,Loyal Customer,Regular Season Buyer
+325,11,Loyal Customer,Regular Season Buyer
+326,17,Loyal Customer,Regular Season Buyer
+327,7,Loyal Customer,Off-season Shopper
+328,14,Loyal Customer,Regular Season Buyer
+329,14,Loyal Customer,Regular Season Buyer
+330,9,Loyal Customer,Regular Season Buyer
+331,11,Loyal Customer,Regular Season Buyer
+332,20,Loyal Customer,Regular Season Buyer
+333,7,Loyal Customer,Off-season Shopper
+334,9,Loyal Customer,Regular Season Buyer
+335,5,Loyal Customer,Off-season Shopper
+336,9,Loyal Customer,Off-season Shopper
+337,17,Loyal Customer,Regular Season Buyer
+338,15,Loyal Customer,Regular Season Buyer
+339,12,Loyal Customer,Regular Season Buyer
+340,13,Loyal Customer,Regular Season Buyer
+341,8,Loyal Customer,Off-season Shopper
+342,7,Loyal Customer,Regular Season Buyer
+343,6,Loyal Customer,Off-season Shopper
+344,10,Loyal Customer,Regular Season Buyer
+345,11,Loyal Customer,Off-season Shopper
+346,9,Loyal Customer,Regular Season Buyer
+347,14,Loyal Customer,Regular Season Buyer
+348,15,Loyal Customer,Regular Season Buyer
+349,8,Loyal Customer,Regular Season Buyer
+350,18,Loyal Customer,Regular Season Buyer
+351,11,Loyal Customer,Regular Season Buyer
+352,7,Loyal Customer,Off-season Shopper
+353,9,Loyal Customer,Regular Season Buyer
+354,9,Loyal Customer,Regular Season Buyer
+355,10,Loyal Customer,Regular Season Buyer
+356,11,Loyal Customer,Regular Season Buyer
+357,16,Loyal Customer,Regular Season Buyer
+358,12,Loyal Customer,Regular Season Buyer
+359,12,Loyal Customer,Regular Season Buyer
+360,9,Loyal Customer,Regular Season Buyer
+361,7,Loyal Customer,Off-season Shopper
+362,9,Loyal Customer,Regular Season Buyer
+363,9,Loyal Customer,Off-season Shopper
+364,8,Loyal Customer,Regular Season Buyer
+365,6,Loyal Customer,Off-season Shopper
+366,12,Loyal Customer,Regular Season Buyer
+367,10,Loyal Customer,Off-season Shopper
+368,11,Loyal Customer,Regular Season Buyer
+369,10,Loyal Customer,Regular Season Buyer
+370,8,Loyal Customer,Regular Season Buyer
+371,13,Loyal Customer,Regular Season Buyer
+372,13,Loyal Customer,Regular Season Buyer
+373,9,Loyal Customer,Regular Season Buyer
+374,8,Loyal Customer,Regular Season Buyer
+375,8,Loyal Customer,Off-season Shopper
+376,10,Loyal Customer,Regular Season Buyer
+377,6,Loyal Customer,Off-season Shopper
+378,5,Loyal Customer,Off-season Shopper
+379,11,Loyal Customer,Regular Season Buyer
+380,10,Loyal Customer,Regular Season Buyer
+381,11,Loyal Customer,Regular Season Buyer
+382,17,Loyal Customer,Regular Season Buyer
+383,12,Loyal Customer,Regular Season Buyer
+384,9,Loyal Customer,Regular Season Buyer
+385,6,Loyal Customer,Off-season Shopper
+386,11,Loyal Customer,Regular Season Buyer
+387,15,Loyal Customer,Regular Season Buyer
+388,9,Loyal Customer,Regular Season Buyer
+389,9,Loyal Customer,Regular Season Buyer
+390,12,Loyal Customer,Regular Season Buyer
+391,9,Loyal Customer,Off-season Shopper
+392,9,Loyal Customer,Off-season Shopper
+393,5,Loyal Customer,Off-season Shopper
+394,11,Loyal Customer,Regular Season Buyer
+395,9,Loyal Customer,Off-season Shopper
+396,7,Loyal Customer,Regular Season Buyer
+397,5,Loyal Customer,Off-season Shopper
+398,14,Loyal Customer,Regular Season Buyer
+399,12,Loyal Customer,Regular Season Buyer
+400,11,Loyal Customer,Regular Season Buyer
+401,6,Loyal Customer,Regular Season Buyer
+402,13,Loyal Customer,Regular Season Buyer
+403,10,Loyal Customer,Regular Season Buyer
+404,8,Loyal Customer,Off-season Shopper
+405,16,Loyal Customer,Regular Season Buyer
+406,8,Loyal Customer,Off-season Shopper
+407,7,Loyal Customer,Regular Season Buyer
+408,10,Loyal Customer,Regular Season Buyer
+409,11,Loyal Customer,Regular Season Buyer
+410,9,Loyal Customer,Off-season Shopper
+411,10,Loyal Customer,Regular Season Buyer
+412,7,Loyal Customer,Off-season Shopper
+413,4,Returning Customer,Off-season Shopper
+414,13,Loyal Customer,Regular Season Buyer
+415,9,Loyal Customer,Regular Season Buyer
+416,8,Loyal Customer,Off-season Shopper
+417,18,Loyal Customer,Regular Season Buyer
+418,11,Loyal Customer,Regular Season Buyer
+419,11,Loyal Customer,Regular Season Buyer
+420,13,Loyal Customer,Regular Season Buyer
+421,11,Loyal Customer,Regular Season Buyer
+422,10,Loyal Customer,Regular Season Buyer
+423,7,Loyal Customer,Off-season Shopper
+424,16,Loyal Customer,Regular Season Buyer
+425,9,Loyal Customer,Regular Season Buyer
+426,13,Loyal Customer,Regular Season Buyer
+427,15,Loyal Customer,Regular Season Buyer
+428,9,Loyal Customer,Regular Season Buyer
+429,13,Loyal Customer,Regular Season Buyer
+430,9,Loyal Customer,Regular Season Buyer
+431,10,Loyal Customer,Regular Season Buyer
+432,14,Loyal Customer,Regular Season Buyer
+433,7,Loyal Customer,Off-season Shopper
+434,5,Loyal Customer,Off-season Shopper
+435,12,Loyal Customer,Regular Season Buyer
+436,9,Loyal Customer,Regular Season Buyer
+437,10,Loyal Customer,Regular Season Buyer
+438,8,Loyal Customer,Off-season Shopper
+439,11,Loyal Customer,Regular Season Buyer
+440,14,Loyal Customer,Regular Season Buyer
+441,12,Loyal Customer,Regular Season Buyer
+442,6,Loyal Customer,Regular Season Buyer
+443,8,Loyal Customer,Off-season Shopper
+444,16,Loyal Customer,Regular Season Buyer
+445,9,Loyal Customer,Regular Season Buyer
+446,8,Loyal Customer,Regular Season Buyer
+447,10,Loyal Customer,Regular Season Buyer
+448,8,Loyal Customer,Regular Season Buyer
+449,7,Loyal Customer,Regular Season Buyer
+450,9,Loyal Customer,Off-season Shopper
+451,9,Loyal Customer,Regular Season Buyer
+452,4,Returning Customer,Off-season Shopper
+453,10,Loyal Customer,Regular Season Buyer
+454,11,Loyal Customer,Regular Season Buyer
+455,7,Loyal Customer,Off-season Shopper
+456,10,Loyal Customer,Regular Season Buyer
+457,8,Loyal Customer,Regular Season Buyer
+458,13,Loyal Customer,Regular Season Buyer
+459,18,Loyal Customer,Regular Season Buyer
+460,15,Loyal Customer,Regular Season Buyer
+461,7,Loyal Customer,Off-season Shopper
+462,11,Loyal Customer,Regular Season Buyer
+463,10,Loyal Customer,Off-season Shopper
+464,6,Loyal Customer,Regular Season Buyer
+465,10,Loyal Customer,Regular Season Buyer
+466,8,Loyal Customer,Off-season Shopper
+467,14,Loyal Customer,Regular Season Buyer
+468,14,Loyal Customer,Regular Season Buyer
+469,19,Loyal Customer,Regular Season Buyer
+470,11,Loyal Customer,Regular Season Buyer
+471,7,Loyal Customer,Regular Season Buyer
+472,10,Loyal Customer,Regular Season Buyer
+473,6,Loyal Customer,Off-season Shopper
+474,14,Loyal Customer,Regular Season Buyer
+475,8,Loyal Customer,Off-season Shopper
+476,10,Loyal Customer,Regular Season Buyer
+477,12,Loyal Customer,Regular Season Buyer
+478,9,Loyal Customer,Regular Season Buyer
+479,11,Loyal Customer,Regular Season Buyer
+480,11,Loyal Customer,Regular Season Buyer
+481,8,Loyal Customer,Regular Season Buyer
+482,14,Loyal Customer,Regular Season Buyer
+483,9,Loyal Customer,Regular Season Buyer
+484,9,Loyal Customer,Regular Season Buyer
+485,9,Loyal Customer,Regular Season Buyer
+486,11,Loyal Customer,Regular Season Buyer
+487,11,Loyal Customer,Regular Season Buyer
+488,14,Loyal Customer,Regular Season Buyer
+489,11,Loyal Customer,Regular Season Buyer
+490,8,Loyal Customer,Off-season Shopper
+491,11,Loyal Customer,Regular Season Buyer
+492,7,Loyal Customer,Regular Season Buyer
+493,20,Loyal Customer,Regular Season Buyer
+494,14,Loyal Customer,Regular Season Buyer
+495,11,Loyal Customer,Regular Season Buyer
+496,10,Loyal Customer,Regular Season Buyer
+497,7,Loyal Customer,Regular Season Buyer
+498,7,Loyal Customer,Off-season Shopper
+499,13,Loyal Customer,Regular Season Buyer
+500,7,Loyal Customer,Off-season Shopper

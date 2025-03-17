@@ -1,0 +1,47 @@
+--> TOP SELLING PRODUCTS & CATEGORIES
+
+(i)  Here are the details about the top 10 selling products:
+ Product ID                     SKU  Sales Count
+         45          Calming Serums         1132
+         44         Soothing Creams         1081
+         35               Lip Scrub          928
+          4          Micellar Water          918
+         19       Cream Moisturizer          909
+         18         Gel Moisturizer          898
+          1           Gel Cleansers          898
+         21 Water-Based Moisturizer          894
+         22             Night Cream          886
+         36                Lip Mask          882
+
+(ii) Here are the details about the top 3 selling product categories:
+Product Category  Count
+    Moisturizers   4460
+       Cleansers   4427
+        Lip Care   2686
+
+
+--> AVERAGE SPENDING PER CUSTOMER PER TRANSACTION
+
+Here are the details about the average spending per customer per transaction for first 5 customers:
+ Customer ID  Total_Spending  Number_of_Transactions  Average_Spending_Per_Transaction
+           1            1010                      12                             84.17
+           2            1370                      14                             97.86
+           3             815                      10                             81.50
+           4             465                       6                             77.50
+           5             760                       9                             84.44
+           6             705                      11                             64.09
+           7             670                       9                             74.44
+           8             790                       9                             87.78
+           9             640                       8                             80.00
+          10            1190                      14                             85.00
+
+Find full file at: Data/result/Average_spending_per_customer_per_transaction.csv
+
+--> SPENDING STATISTICS
+
+Here are the details about the Spending Statistics:
+1. Minimum Spending in a transaction: 20
+2. Maximum Spending in a transaction: 200
+3. Average Spending per transaction: 90.73
+
+

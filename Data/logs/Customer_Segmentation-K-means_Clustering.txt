@@ -1,0 +1,37 @@
+--> CUSTOMER SEGMENTATION BASED USING K-MEANS CLUSTERING
+
+Performing K-means clustering with k=4:
+
+
+Here is customer segmentation results based on K-means clustering first 10 customers:
+ Customer ID  Total Spend  Avg Spend  Purchase Count  Cluster                   Segment
+           1         1010  23.488372              43        1           Moderate Buyers
+           2         1370  26.862745              51        1           Moderate Buyers
+           3          815  24.696970              33        0         Occasional Buyers
+           4          465  25.833333              18        2 Frequent Bargain Shoppers
+           5          760  27.142857              28        2 Frequent Bargain Shoppers
+           6          705  22.031250              32        0         Occasional Buyers
+           7          670  23.928571              28        0         Occasional Buyers
+           8          790  26.333333              30        2 Frequent Bargain Shoppers
+           9          640  23.703704              27        0         Occasional Buyers
+          10         1190  23.800000              50        1           Moderate Buyers
+
+Find full file at: Data/result/Customer_Segmentation_based_on_K-means_Clustering.csv
+
+
+
+Here is summary of the clusters:
+ Total Spend  Avg Spend  Purchase Count  Cluster                     Label
+ 1616.538462  26.328331       61.589744        3             High Spenders
+ 1116.993865  26.064168       42.944785        1           Moderate Buyers
+  723.065693  27.143787       26.649635        2 Frequent Bargain Shoppers
+  679.968944  23.902004       28.453416        0         Occasional Buyers
+
+-->PCA FOR BETTER CLUSTERING 
+
+Performing PCA to visualize better clusters:
+
+
+Saved Customer Segmentation visualization at: Data/result/PCA_Cluster_Visualization.png
+
+

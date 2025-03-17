@@ -1,0 +1,74 @@
+--> SEGMENTATION BASED ON PURCHASE BEHAVIOR
+
+Performing below segmentation:
+1. Segmentation based on Total Spending: Low, Medium and High Spender
+2. Segmentation based on Average Order Value: Budget Buyer, Value Shopper, Big Buyer
+3. Segmentation based on Frequency of Transaction: One-time, Occasional, Frequent Buyer
+4. Segmentation based on Recency: Active, At-risk, Lapsed Buyer
+
+
+Here is customer segmentation results based on purchase behavior for first 10 customers:
+ Customer ID  Total Spend Spend Category  Average Order Value Order Value Category  Purchase Frequency Frequency Category Recency Category
+           1         1010 Medium Spender                84.17        Value Shopper                  12     Frequent Buyer    At-risk Buyer
+           2         1370   High Spender                97.86        Value Shopper                  14     Frequent Buyer    At-risk Buyer
+           3          815 Medium Spender                81.50        Value Shopper                  10     Frequent Buyer     Active Buyer
+           4          465    Low Spender                77.50         Budget Buyer                   6     Frequent Buyer     Lapsed Buyer
+           5          760 Medium Spender                84.44        Value Shopper                   9     Frequent Buyer     Active Buyer
+           6          705 Medium Spender                64.09         Budget Buyer                  11     Frequent Buyer    At-risk Buyer
+           7          670 Medium Spender                74.44         Budget Buyer                   9     Frequent Buyer    At-risk Buyer
+           8          790 Medium Spender                87.78        Value Shopper                   9     Frequent Buyer     Active Buyer
+           9          640    Low Spender                80.00         Budget Buyer                   8     Frequent Buyer     Active Buyer
+          10         1190   High Spender                85.00        Value Shopper                  14     Frequent Buyer     Active Buyer
+
+Find full file at: Data/result/Customer_Segmentation_based_on_Purchase_Behavior.csv
+
+
+
+--> SEGMENTATION BASED ON PURCHASE PATTERN
+
+Performing below segmentation:
+1. Segmentation based on Purchase Pattern: New, Loyal, Returning Customer
+2. Segmentation based on Buyer Seasonality: Holiday Shopper, Regular Season Buyer, Off-season Shopper
+
+
+Here is customer segmentation results based on purchase pattern for first 10 customers:
+ Customer ID  Purchase Count Purchase Pattern Seasonality Category
+           1              12   Loyal Customer Regular Season Buyer
+           2              14   Loyal Customer Regular Season Buyer
+           3              10   Loyal Customer   Off-season Shopper
+           4               6   Loyal Customer Regular Season Buyer
+           5               9   Loyal Customer Regular Season Buyer
+           6              11   Loyal Customer Regular Season Buyer
+           7               9   Loyal Customer Regular Season Buyer
+           8               9   Loyal Customer Regular Season Buyer
+           9               8   Loyal Customer Regular Season Buyer
+          10              14   Loyal Customer Regular Season Buyer
+
+Find full file at: Data/result/Customer_Segmentation_based_on_Purchase_Pattern.csv
+
+
+
+--> SEGMENTATION BASED ON BASKET COMPOSITION
+
+Performing below segmentation:
+1. Segmentation based on Basket Value Segmentation: Low, Moderate, High Basket Buyer
+2. Segmentation based on Items per Transaction: Selective, Bulk, Mixed Buyer
+
+
+Here is customer segmentation results based on Basket Composition for first 10 customers:
+ Customer ID  Average Basket Value Basket Value Category  Average Items per Transaction Item Count Category
+           1                 84.17 Moderate Basket Buyer                           3.58         Mixed Buyer
+           2                 97.86 Moderate Basket Buyer                           3.64         Mixed Buyer
+           3                 81.50 Moderate Basket Buyer                           3.30         Mixed Buyer
+           4                 77.50      Low Basket Buyer                           3.00         Mixed Buyer
+           5                 84.44 Moderate Basket Buyer                           3.11         Mixed Buyer
+           6                 64.09      Low Basket Buyer                           2.91         Mixed Buyer
+           7                 74.44      Low Basket Buyer                           3.11         Mixed Buyer
+           8                 87.78 Moderate Basket Buyer                           3.33         Mixed Buyer
+           9                 80.00      Low Basket Buyer                           3.38         Mixed Buyer
+          10                 85.00 Moderate Basket Buyer                           3.57         Mixed Buyer
+
+Find full file at: Data/result/Customer_Segmentation_based_on_Basket_Composition.csv
+
+
+
