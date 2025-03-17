@@ -29,6 +29,7 @@ BookedBy/
 │   ├── customer_segmentation.py  # Clustering logic to group customers
 │   ├── data_analysis.py          # Insights from transaction data
 │   └── product_recommendation.py # Personalized product recommendation engine
+├── assets/                       # Store charts
 ├── script.py                     # Main runner script
 ├── Report.pdf                    # Report summarizing work done and results for the project
 └── README.md
